@@ -1,0 +1,23 @@
+{
+  "name": "fs-modules",
+  "version": "1.0.0",
+  "description": "Practical 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axy1976/NodeJS-File-System.git"
+  },
+  "author": "Akshay Jangir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axy1976/NodeJS-File-System/issues"
+  },
+  "homepage": "https://github.com/axy1976/NodeJS-File-System#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
